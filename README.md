@@ -16,10 +16,12 @@
     <li>🎉 Fun Fact: I Love Computer Science.</li>    
     <li>📙 Check out my <a href="https://drive.google.com/file/d/198x-q_j3LrFScMkx_6NgU9DpeZUAqq6K/view?usp=sharing" target="_blank" rel="noreferrer">resume</a>.</li> 
 <!--     <li>📙 Check out my <a href="https://portfolio-aashish.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li>  -->
-    <li>🧑‍💻 Check out my coding profiles -
+    <li>🧑‍💻 Check out my coding profiles && portfolio -
       <ul>
         <li>
             <a href="https://leetcode.com/u/Abhimanyu12321/" target=”_blank”>Leetcode</a></li> 
+        <li>
+            <a href="https://portfolio-one-gold-76.vercel.app/" target=”_blank”>Portfolio</a></li> 
         </li>
         </li>
         </li>
