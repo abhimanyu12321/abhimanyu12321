@@ -14,7 +14,7 @@
 <!--     <li>📖 I’m currently learning Full Stack Web Development.</li> -->
     <li>❓ Ask me about anything related to web , programming and related technologies.</li>
     <li>🎉 Fun Fact: I Love Computer Science.</li>    
-    <li>📙 Check out my <a href="https://drive.google.com/file/d/1qrZ6054UWO_7vs6ZLK0eAb2LimeQxjjf/view" target="_blank" rel="noreferrer">resume</a>.</li> 
+    <li>📙 Check out my <a href="https://drive.google.com/file/d/1Y-pbV_V8z9OMfjD_BnfSFs5meJLkZU_D/view" target="_blank" rel="noreferrer">resume</a>.</li> 
 <!--     <li>📙 Check out my <a href="https://portfolio-aashish.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li>  -->
     <li>🧑‍💻 Check out my coding profiles && portfolio -
       <ul>
