@@ -21,7 +21,7 @@
         <li>
             <a href="https://leetcode.com/u/Abhimanyu12321/" target=”_blank”>Leetcode</a></li> 
         <li>
-            <a href="https://portfolio-one-gold-76.vercel.app/" target=”_blank”>Portfolio</a></li> 
+            <a href="https://abhimanyu12321.vercel.app/" target=”_blank”>Portfolio</a></li> 
         </li>
         </li>
         </li>
